@@ -1,0 +1,30 @@
+{
+  "name": "delta-math-pseudocode",
+  "version": "0.0.1",
+  "description": "This tokenizes, parses and executes delta-math pseudocode",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cojored",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.11.19",
+    "typescript": "^4.9.4"
+  },
+  "bin": {
+    "delta": "build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cojored/delta-math-pseudocode.git"
+  },
+  "keywords": [
+    "delta-math",
+    "pseudocode"
+  ],
+  "bugs": {
+    "url": "https://github.com/cojored/delta-math-pseudocode/issues"
+  },
+  "homepage": "https://github.com/cojored/delta-math-pseudocode#readme"
+}
