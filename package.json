@@ -13,7 +13,7 @@
     "typescript": "^4.9.4"
   },
   "bin": {
-    "delta": "build/index.js"
+    "delta": "index.js"
   },
   "repository": {
     "type": "git",
